@@ -1,0 +1,8 @@
+front end 
+vue.js 
+react.js 
+html 
+css
+
+back end 
+core python 
